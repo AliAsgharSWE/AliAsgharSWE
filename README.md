@@ -27,7 +27,7 @@
 
 I’m a **Senior Software Engineer** with **4+ years of industry experience**, specializing in **backend systems, cloud infrastructure, and full-stack product development**.  
 
-My engineering philosophy: *Architect systems that are observable, scalable, and maintainable — not just functional.*  
+My engineering philosophy: *Architect systems that are observable, scalable, and maintainable - not just functional.*  
 I design solutions that **scale under load, recover under failure, and communicate through data**.  
 
 I’ve built production systems with **FastAPI, Node.js, and NestJS**, deployed across **AWS ECS, EC2, and S3**, and delivered end-to-end experiences using **React.js and Next.js**.  
@@ -69,7 +69,7 @@ OpenCV • YOLOv8 • Tesseract OCR • Google Vision AI • FastAPI Model Servi
 ## 🚀 Featured Projects  
 
 ### 🏠 **RentARround** – [Rentarround.com](https://Rentarround.com)  
-Peer-to-peer rental marketplace for real estate, vehicles, and services — includes custom listing flows, booking engines, and identity verification.  
+Peer-to-peer rental marketplace for real estate, vehicles, and services - includes custom listing flows, booking engines, and identity verification.  
 **Stack:** FastAPI • React.js • PostgreSQL • AWS • Docker  
 
 ---
@@ -93,13 +93,13 @@ Internal digital tools (dashboards, doc generators) for global health programs, 
 ---
 
 ### 🌊 **OceanTech** – [Oceantech.com](https://Oceantech.com)  
-Enterprise platform for IT asset disposition and e-waste management — inventory lifecycle automation and compliance tracking.  
+Enterprise platform for IT asset disposition and e-waste management - inventory lifecycle automation and compliance tracking.  
 **Stack:** FastAPI • Next.js • SQLAlchemy • AWS ECS  
 
 ---
 
 ### 💽 **WipeOS** – [Wipeos.com](https://Wipeos.com)  
-Enterprise data sanitization suite — automates secure wipe processes, hardware detection, audit logging, and compliance reporting.  
+Enterprise data sanitization suite - automates secure wipe processes, hardware detection, audit logging, and compliance reporting.  
 **Stack:** Python • FastAPI • React.js • PostgreSQL • Docker  
 
 ---
@@ -132,7 +132,7 @@ Enterprise data sanitization suite — automates secure wipe processes, hardware
 
 ## 🧩 Philosophy  
 
-> I don’t just write code — I engineer systems.  
+> I don’t just write code - I engineer systems.  
 > Systems that **speak, scale, and self-heal**.  
 > Code should be readable. Architectures should be predictable.  
 > Products should **work under chaos, not collapse because of it.**
