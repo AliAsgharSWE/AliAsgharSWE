@@ -19,7 +19,7 @@
 
 ---
 
-> ⭐ “Systems fail silently unless you design them to speak.”
+> ⭐ **“Systems fail silently unless you design them to speak.”**
 
 ---
 
@@ -147,5 +147,3 @@ Enterprise data sanitization suite — automates secure wipe processes, hardware
 💻 [GitHub](https://github.com/AliAsgharSWE)
 
 ---
-
-⭐ **“Systems fail silently unless you design them to speak.”**  
